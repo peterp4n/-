@@ -13,3 +13,8 @@
             - 잘 정제된 데이터
             - 알고리즘에 학습
 - 재능 있는 엔지니어가 AI 모델을 설계
+
+
+http://cs.kangwon.ac.kr/~leeck/NLP/01_intro.pdf
+http://solarisailab.com/archives/818
+http://aidev.co.kr/index.php?mid=nlp&page=2&document_srl=4224
